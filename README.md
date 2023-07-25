@@ -1,4 +1,4 @@
-![image](https://github.com/Remi-hzt/houseforecast/assets/43429577/8ea8749c-bedc-4098-8dc1-782afee54181)# houseforecast
+# houseforecast
 使用python进行爬取链家二手房数据，并对数据进行处理、可视化和房价预测
 ## 数据可视化
 ![image](https://github.com/Remi-hzt/houseforecast/assets/43429577/85bfa928-9221-4afd-b4bc-e1c7746cb099)
