@@ -8,6 +8,7 @@
 
 ## 房价预测
 使用线性回归、创建最佳拟合线
+
 ![image](https://github.com/Remi-hzt/houseforecast/assets/43429577/6a1a7703-97f6-4991-badf-d2efae253824)
 
 KNN(K近邻)
